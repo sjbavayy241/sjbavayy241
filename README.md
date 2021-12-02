@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bala      
-- 👀 I’m interested in Electrical Engineering
-- 🌱 I’m currently learning Matla/Simulink
-- 💞️ I’m looking to collaborate on power system team
+- 👀 I’m interested in DevOps Engineer
+- 🌱 I’m currently DevOps tools 
+- 💞️ I’m looking to collaborate on DevOps team
 - 📫 How to reach me ...
 balasubramanyam241@gmail.com
 <!---
