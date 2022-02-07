@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bala      
 - 👀 I’m interested in DevOps Engineer
-- 🌱 I’m currently runnig DevOps tools 
+ 
 - 💞️ I’m looking to collaborate on DevOps team
 - 📫 How to reach me ...
 vayyavuri.bala@hotmail.com
